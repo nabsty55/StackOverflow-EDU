@@ -7,7 +7,7 @@ a{
   text-decoration: none;
   text-transform: uppercase;
 }
-a:hover{
+.login-nav a:hover{
   background-color: #2bcbba;
   color:white;
   padding: 10px;
@@ -46,15 +46,14 @@ p{
   border-color: #2bcbba;
 
 }
-p:hover{
-  background-color: #45aaf2;
-  padding: 20px;
-  border-radius: 10px;
-
+.questions a:hoover{
+  background-color: #45aaf2
+  padding: 40px;
 
 }
 .footer{
   position: absolute;
   bottom: 0;
-  width: 100%;
+  
+
 }
